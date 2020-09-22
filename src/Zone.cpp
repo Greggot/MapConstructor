@@ -1,4 +1,4 @@
-#include "C:\OS\MapConstructor\include\Zone.h"
+#include "include\Zone.h"
 #include <iostream>
 Zone ::Zone()
 {

@@ -1,7 +1,7 @@
 #include <SFML/Graphics.hpp>
 #include <SFML/Window/Event.hpp>
 #include <SFML/Graphics/VertexArray.hpp>
-#include <C:\OS\MapConstructor\include\RedactorManager.h>
+#include <include\RedactorManager.h>
 
 #include <iostream>
 #include <string>

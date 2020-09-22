@@ -1,4 +1,4 @@
-#include "C:\OS\MapConstructor\include\FileTranslator.h"
+#include "include\FileTranslator.h"
 #include <fstream>
 #include <stdlib.h>
 #include <string>
